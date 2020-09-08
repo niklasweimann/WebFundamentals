@@ -98,7 +98,7 @@ The following keyboard shortcuts are available in most, if not all, DevTools pan
       <td><kbd>Control</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd></td>
     </tr>
     <tr>
-      <td>Open the <b><a href="/web/tools/chrome-devtools/ui#command-menu">Command Menu</a></b></td>
+      <td>Open the <b><a href="/web/tools/chrome-devtools/command-menu">Command Menu</a></b></td>
       <td><kbd>Command</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd></td>
       <td><kbd>Control</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd></td>
     </tr>
